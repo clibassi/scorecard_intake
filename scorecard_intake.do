@@ -19,7 +19,6 @@ copy https://ed-public-download.app.cloud.gov/downloads/CollegeScorecard_Raw_Dat
 // Extract the contents of the zip file and change into the created directory
 unzipfile CollegeScorecard_Raw_Data_02072022.zip, replace
 
-_dots 0, title(Loop running) reps(75)
 forvalues i = 1996 / 2019 {
 		// dataset names look like MERGED1996_97_PP.csv so the
 		// next two lines come up with the '97' given '1996'.
@@ -27,7 +26,7 @@ forvalues i = 1996 / 2019 {
 	local num2 : display %02.0f `num2'
 
 		// entertain me while stepping through the files
-	*display "Processing MERGED`i'_`num2'_PP.csv"
+	display "Processing MERGED`i'_`num2'_PP.csv"
 
 		// read a file into a string scalar in memory
 		// replace 'NULL' with Stata's '.n' extended missing value, and
@@ -97,11 +96,10 @@ forvalues i = 1996 / 2019 {
 			lnfaminc_ind pct_white pct_black pct_asian pct_hispanic pct_ba pct_grad_prof ///
 			pct_born_us poverty_rate unemp_rate fsend* lat* long*
 		
-	compress 
+	capture compress 
 	save "${BASE_DIRECTORY}MERGED_`i'PP.dta", replace 
 	rm "MERGED`i'_`num2'_PP.csv"
 	frame full_scorecard_data: append using "${BASE_DIRECTORY}MERGED_`i'PP.dta"
-	_dots `i' 0
 
 }
 
