@@ -1,0 +1,46 @@
+{
+  "LC": {
+    "barronsname": "Alabama A & M University",
+    "unitid": "100654"
+  },
+  "C": {
+    "barronsname": "University of Alabama at Birmingham",
+    "unitid": "100663"
+  },
+  "VC": {
+    "barronsname": "University of Alabama in Huntsville",
+    "unitid": "100706"
+  },
+  "VC+": {
+    "barronsname": "Auburn University",
+    "unitid": "100858"
+  },
+  "NC": {
+    "barronsname": "Miles College",
+    "unitid": "101675"
+  },
+  "No category": {
+    "barronsname": "Spring Hill College",
+    "unitid": "102234"
+  },
+  "C+": {
+    "barronsname": "Embry-Riddle Aeronautical University-Prescott",
+    "unitid": "104586"
+  },
+  "HC+": {
+    "barronsname": "Hendrix College",
+    "unitid": "107080"
+  },
+  "Specialized programs": {
+    "barronsname": "Art Center College of Design",
+    "unitid": "109651"
+  },
+  "Most competitive": {
+    "barronsname": "California Institute of Technology",
+    "unitid": "110404"
+  },
+  "HC": {
+    "barronsname": "California Polytechnic State University-San Luis Obispo",
+    "unitid": "110422"
+  }
+}
