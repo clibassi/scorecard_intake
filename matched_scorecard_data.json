@@ -1,0 +1,101 @@
+{
+  "C": {
+    "csv_name": "University of Alabama at Birmingham",
+    "unitid": 100663,
+    "scorecard_name": "University of Alabama at Birmingham",
+    "admission_rate": 0.8842,
+    "avg_sat": 1251.0,
+    "student_size": 12118.0,
+    "in_state_tuition": 8832.0
+  },
+  "C+": {
+    "csv_name": "Embry-Riddle Aeronautical University-Prescott",
+    "unitid": 104586,
+    "scorecard_name": "Embry-Riddle Aeronautical University-Prescott",
+    "admission_rate": 0.7519,
+    "avg_sat": 1256.0,
+    "student_size": 3245.0,
+    "in_state_tuition": 42204.0
+  },
+  "HC": {
+    "csv_name": "California Polytechnic State University-San Luis Obispo",
+    "unitid": 110422,
+    "scorecard_name": "California Polytechnic State University-San Luis Obispo",
+    "admission_rate": 0.2975,
+    "avg_sat": NaN,
+    "student_size": 21521.0,
+    "in_state_tuition": 11075.0
+  },
+  "HC+": {
+    "csv_name": "Hendrix College",
+    "unitid": 107080,
+    "scorecard_name": "Hendrix College",
+    "admission_rate": 0.5298,
+    "avg_sat": 1336.0,
+    "student_size": 1094.0,
+    "in_state_tuition": 36650.0
+  },
+  "LC": {
+    "csv_name": "Alabama A & M University",
+    "unitid": 100654,
+    "scorecard_name": "Alabama A & M University",
+    "admission_rate": 0.6622,
+    "avg_sat": 947.0,
+    "student_size": 5726.0,
+    "in_state_tuition": 10024.0
+  },
+  "Most competitive": {
+    "csv_name": "California Institute of Technology",
+    "unitid": 110404,
+    "scorecard_name": "California Institute of Technology",
+    "admission_rate": 0.0314,
+    "avg_sat": NaN,
+    "student_size": 1023.0,
+    "in_state_tuition": 63255.0
+  },
+  "NC": {
+    "csv_name": "Miles College",
+    "unitid": 101675,
+    "scorecard_name": "Miles College",
+    "admission_rate": NaN,
+    "avg_sat": NaN,
+    "student_size": 1151.0,
+    "in_state_tuition": 12714.0
+  },
+  "No category": {
+    "csv_name": "Spring Hill College",
+    "unitid": 102234,
+    "scorecard_name": "Spring Hill College",
+    "admission_rate": 0.591,
+    "avg_sat": 1090.0,
+    "student_size": 850.0,
+    "in_state_tuition": 23270.0
+  },
+  "Specialized programs": {
+    "csv_name": "Art Center College of Design",
+    "unitid": 109651,
+    "scorecard_name": "Art Center College of Design",
+    "admission_rate": 0.7498,
+    "avg_sat": NaN,
+    "student_size": 2054.0,
+    "in_state_tuition": 51640.0
+  },
+  "VC": {
+    "csv_name": "University of Alabama in Huntsville",
+    "unitid": 100706,
+    "scorecard_name": "University of Alabama in Huntsville",
+    "admission_rate": 0.7425,
+    "avg_sat": 1321.0,
+    "student_size": 6650.0,
+    "in_state_tuition": 11770.0
+  },
+  "VC+": {
+    "csv_name": "Auburn University",
+    "unitid": 100858,
+    "scorecard_name": "Auburn University",
+    "admission_rate": 0.5047,
+    "avg_sat": 1318.0,
+    "student_size": 25732.0,
+    "in_state_tuition": 12536.0
+  }
+}
