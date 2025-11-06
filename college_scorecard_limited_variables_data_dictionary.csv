@@ -1,0 +1,59 @@
+NAMEOFDATAELEMENT,devcategory,developerfriendlyname,APIdatatype,INDEX,VARIABLENAME,VALUE,LABEL,SOURCE,SHOWNUSEONSITE,NOTES,L,M,N,keeper
+Unit ID for institution,root,id,integer,,UNITID,,,IPEDS,Yes,,,,,1
+8-digit OPE ID for institution,root,ope8_id,string,varchar(10),OPEID,,,IPEDS,Yes,,,,,1
+6-digit OPE ID for institution,root,ope6_id,string,varchar(10),OPEID6,,,IPEDS,Yes,,,,,1
+Institution name,school,name,autocomplete,fulltext,INSTNM,,,IPEDS,Yes,,,,,1
+City,school,city,autocomplete,varchar(200),CITY,,,IPEDS,Yes,,,,,1
+State postcode,school,state,string,varchar(50),STABBR,,,IPEDS,Yes,,,,,1
+ZIP code,school,zip,string,varchar(20),ZIP,,,IPEDS,,,,,,1
+Predominant degree awarded (recoded 0s and 4s),school,degrees_awarded.predominant_recoded,integer,,SCH_DEG,,,IPEDS/NSLDS,,"Missing values, 0s, and 4s from PREDDEG recoded according to NSLDS program length",,,,1
+Flag for main campus,school,main_campus,integer,tinyint,MAIN,0,Not main campus,IPEDS,,,,,,1
+Predominant undergraduate degree awarded
+ 0 Not classified
+ 1 Predominantly certificate-degree granting
+ 2 Predominantly associate's-degree granting
+ 3 Predominantly bachelor's-degree granting
+ 4 Entirely graduate-degree granting,school,degrees_awarded.predominant,integer,tinyint,PREDDEG,0,Not classified,IPEDS,Yes,,,,,1
+Control of institution (IPEDS),school,ownership,integer,integer,CONTROL,1,Public,IPEDS,Yes,,,,,1
+FIPS code for state,school,state_fips,integer,integer,ST_FIPS,1,Alabama,IPEDS,,,,,,1
+Latitude,root,location.lat,float,,LATITUDE,,,IPEDS,,,,,,1
+Longitude,root,location.lon,float,,LONGITUDE,,,IPEDS,,,,,,1
+Admission rate,admissions,admission_rate.overall,float,float,ADM_RATE,,,IPEDS,,,,,,1
+Admission rate for all campuses rolled up to the 6-digit OPE ID,admissions,admission_rate.by_ope_id,float,,ADM_RATE_ALL,,,IPEDS,,,,,,1
+25th percentile of SAT scores at the institution (critical reading),admissions,sat_scores.25th_percentile.critical_reading,float,float,SATVR25,,,IPEDS,Yes,,,,,1
+75th percentile of SAT scores at the institution (critical reading),admissions,sat_scores.75th_percentile.critical_reading,float,float,SATVR75,,,IPEDS,Yes,,,,,1
+25th percentile of SAT scores at the institution (math),admissions,sat_scores.25th_percentile.math,float,float,SATMT25,,,IPEDS,Yes,,,,,1
+75th percentile of SAT scores at the institution (math),admissions,sat_scores.75th_percentile.math,float,float,SATMT75,,,IPEDS,Yes,,,,,1
+25th percentile of SAT scores at the institution (writing),admissions,sat_scores.25th_percentile.writing,float,float,SATWR25,,,IPEDS,,Discontinued,,,,1
+75th percentile of SAT scores at the institution (writing),admissions,sat_scores.75th_percentile.writing,float,float,SATWR75,,,IPEDS,,Discontinued,,,,1
+Midpoint of SAT scores at the institution (critical reading),admissions,sat_scores.midpoint.critical_reading,float,float,SATVRMID,,,IPEDS,,,,,,1
+Midpoint of SAT scores at the institution (math),admissions,sat_scores.midpoint.math,float,float,SATMTMID,,,IPEDS,,,,,,1
+Midpoint of SAT scores at the institution (writing),admissions,sat_scores.midpoint.writing,float,float,SATWRMID,,,IPEDS,,Discontinued,,,,1
+25th percentile of the ACT cumulative score,admissions,act_scores.25th_percentile.cumulative,float,,ACTCM25,,,IPEDS,Yes,,,,,1
+75th percentile of the ACT cumulative score,admissions,act_scores.75th_percentile.cumulative,float,,ACTCM75,,,IPEDS,Yes,,,,,1
+25th percentile of the ACT English score,admissions,act_scores.25th_percentile.english,float,,ACTEN25,,,IPEDS,,,,,,1
+75th percentile of the ACT English score,admissions,act_scores.75th_percentile.english,float,,ACTEN75,,,IPEDS,,,,,,1
+25th percentile of the ACT math score,admissions,act_scores.25th_percentile.math,float,,ACTMT25,,,IPEDS,,,,,,1
+75th percentile of the ACT math score,admissions,act_scores.75th_percentile.math,float,,ACTMT75,,,IPEDS,,,,,,1
+25th percentile of the ACT writing score,admissions,act_scores.25th_percentile.writing,float,,ACTWR25,,,IPEDS,,Discontinued,,,,1
+75th percentile of the ACT writing score,admissions,act_scores.75th_percentile.writing,float,,ACTWR75,,,IPEDS,,Discontinued,,,,1
+Midpoint of the ACT cumulative score,admissions,act_scores.midpoint.cumulative,float,float,ACTCMMID,,,IPEDS,,,,,,1
+Midpoint of the ACT English score,admissions,act_scores.midpoint.english,float,,ACTENMID,,,IPEDS,,,,,,1
+Midpoint of the ACT math score,admissions,act_scores.midpoint.math,float,,ACTMTMID,,,IPEDS,,,,,,1
+Midpoint of the ACT writing score,admissions,act_scores.midpoint.writing,float,,ACTWRMID,,,IPEDS,,Discontinued,,,,1
+Average SAT equivalent score of students admitted,admissions,sat_scores.average.overall,float,float,SAT_AVG,,,IPEDS,,,,,,1
+Average SAT equivalent score of students admitted for all campuses rolled up to the 6-digit OPE ID,admissions,sat_scores.average.by_ope_id,float,,SAT_AVG_ALL,,,IPEDS,,,,,,1
+Enrollment of undergraduate certificate/degree-seeking students,student,size,integer,integer,UGDS,,,IPEDS,Yes,Not available in 2000-2001 datafile,,,,1
+Enrollment of all undergraduate students,student,enrollment.all,integer,,UG,,,IPEDS,,Discontinued; available in 2000-2001 datafile only,,,,1
+Average cost of attendance (academic year institutions),cost,attendance.academic_year,integer,,COSTT4_A,,,IPEDS,,"The average annual total cost of attendance, including tuition and fees, books and supplies, and living expenses for all full-time, first-time, degree/certificate-seeking undergraduates who receive Title IV aid. It is calculated from values in the IPEDS Institutional Characteristics and Student Financial Aid components. Separate metrics are calculated for academic-year institutions and program-year institutions. For academic-year institutions, average cost of attendance represents an average of all programs and includes only full-time, first-time, degree/certificate-seeking undergraduates who first enrolled in the fall term. For non-academic-year institutions (program or continuous enrollment), average cost of attendance represents the program with the largest enrollment at the institution, and it includes full-time, first-time, degree/certificate-seeking undergraduates who first enrolled at any time during the academic year. For programs less than 1 year in length (see LPROGRAM), this represents the cost for the full program.",,,,1
+Average cost of attendance (program-year institutions),cost,attendance.program_year,integer,,COSTT4_P,,,IPEDS,,ibid,,,,1
+In-state tuition and fees,cost,tuition.in_state,integer,integer,TUITIONFEE_IN,,,IPEDS,,,,,,1
+Out-of-state tuition and fees,cost,tuition.out_of_state,integer,integer,TUITIONFEE_OUT,,,IPEDS,,,,,,1
+Tuition and fees for program-year institutions,cost,tuition.program_year,integer,,TUITIONFEE_PROG,,,IPEDS,,,,,,1
+Net tuition revenue per full-time equivalent student,school,tuition_revenue_per_fte,integer,,TUITFTE,,,IPEDS,,Net tuition revenue (tuition revenue minus discounts and allowances) divided by the number of FTE students (undergraduates and graduate students) (http://nces.ed.gov/ipeds/glossary/index.asp?id=854). Net tuition revenue is included in the IPEDS Finance component and FTE enrollment is included in the IPEDS 12-Month Enrollment component. This metric includes graduate students.,,,,1
+Instructional expenditures per full-time equivalent student,school,instructional_expenditure_per_fte,integer,,INEXPFTE,,,IPEDS,,Instructional expenditures divided by the number of FTE students (undergraduates and graduate students) (http://nces.ed.gov/ipeds/glossary/index.asp?id=854). Instructional expenditures are included in the IPEDS Finance component and FTE enrollment is included in the IPEDS 12-Month Enrollment component. This metric includes graduate students.,,,,1
+Average faculty salary,school,faculty_salary,integer,,AVGFACSAL,,,IPEDS,,"Average faculty salary per month, calculated from the IPEDS Human Resources component. This metric is calculated as the total salary outlays divided by the number of months worked for all full-time nonmedical instructional staff. Prior to the 2011-12 academic year, when months worked were reported in groups, the value for 9-10 months is estimated as 9.5 months and the value for 11-12 months is estimated as 11.5 months. Values prior to the 2003-04 academic year are limited to degree-granting institutions for consistency with values in subsequent academic years.",,,,1
+Percentage of undergraduates who receive a Pell Grant,aid,pell_grant_rate,float,,PCTPELL,,,IPEDS,,"The proportion of undergraduates who received a Pell grant in the academic year, calculated from the IPEDS Student Financial Aid component. This metric is calculated by IPEDS as the quotient of the number of Pell grant recipients divided by the count of all undergraduates for either a fall enrollment cohort (for institutions that primarily follow an academic year calendar system) or a full-year enrollment cohort (for institutions that primarily follow a continuous enrollment or program-based calendar system). Proportions are expressed as decimals rounded to four decimal places, so, for example, 0.1234 equals 12.34 percent. This metric is not available prior to the 2008-09 academic year.",,,,1
+Percent of all undergraduate students receiving a federal student loan,aid,federal_loan_rate,float,,PCTFLOAN,,,IPEDS,,"The proportion of undergraduates who received a federal loan in the academic year, calculated from values from the IPEDS Student Financial Aid component. Proportions are expressed as decimals rounded to four decimal places, so, for example, 0.1234 equals 12.34 percent. This metric is not available prior to the 2009-10 academic year.",,,,1
+Median earnings of graduates working and not enrolled 5 years after completing,earnings,5_yrs_after_completion.median,integer,,MD_EARN_WNE_5YR,,,Treasury,,,,,,1
+Institutional sector derived from the ownership structure (CONTROL) and the predominant level of award conferred (PREDDEG),school,sector.scorecard,integer,,SCORECARD_SECTOR,1,Graduate-only Public institution ,IPEDS,,,,,,1
