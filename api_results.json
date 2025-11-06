@@ -1,0 +1,68 @@
+{
+  "C": {
+    "csv_name": "University of Alabama at Birmingham",
+    "unitid": "100663",
+    "api_data": null,
+    "error": "403 Client Error: Forbidden for url: https://api.data.gov/ed/collegescorecard/v1/schools?api_key=0GErZoMWiizbqBsROxnaGmsfaQlGTxluyKXBHpF8&id=100663&fields=id%2Cschool.name%2Clatest.student.size%2Clatest.admissions.admission_rate.overall%2Clatest.admissions.sat_scores.average.overall%2Clatest.cost.tuition.in_state"
+  },
+  "C+": {
+    "csv_name": "Embry-Riddle Aeronautical University-Prescott",
+    "unitid": "104586",
+    "api_data": null,
+    "error": "403 Client Error: Forbidden for url: https://api.data.gov/ed/collegescorecard/v1/schools?api_key=0GErZoMWiizbqBsROxnaGmsfaQlGTxluyKXBHpF8&id=104586&fields=id%2Cschool.name%2Clatest.student.size%2Clatest.admissions.admission_rate.overall%2Clatest.admissions.sat_scores.average.overall%2Clatest.cost.tuition.in_state"
+  },
+  "HC": {
+    "csv_name": "California Polytechnic State University-San Luis Obispo",
+    "unitid": "110422",
+    "api_data": null,
+    "error": "403 Client Error: Forbidden for url: https://api.data.gov/ed/collegescorecard/v1/schools?api_key=0GErZoMWiizbqBsROxnaGmsfaQlGTxluyKXBHpF8&id=110422&fields=id%2Cschool.name%2Clatest.student.size%2Clatest.admissions.admission_rate.overall%2Clatest.admissions.sat_scores.average.overall%2Clatest.cost.tuition.in_state"
+  },
+  "HC+": {
+    "csv_name": "Hendrix College",
+    "unitid": "107080",
+    "api_data": null,
+    "error": "403 Client Error: Forbidden for url: https://api.data.gov/ed/collegescorecard/v1/schools?api_key=0GErZoMWiizbqBsROxnaGmsfaQlGTxluyKXBHpF8&id=107080&fields=id%2Cschool.name%2Clatest.student.size%2Clatest.admissions.admission_rate.overall%2Clatest.admissions.sat_scores.average.overall%2Clatest.cost.tuition.in_state"
+  },
+  "LC": {
+    "csv_name": "Alabama A & M University",
+    "unitid": "100654",
+    "api_data": null,
+    "error": "403 Client Error: Forbidden for url: https://api.data.gov/ed/collegescorecard/v1/schools?api_key=0GErZoMWiizbqBsROxnaGmsfaQlGTxluyKXBHpF8&id=100654&fields=id%2Cschool.name%2Clatest.student.size%2Clatest.admissions.admission_rate.overall%2Clatest.admissions.sat_scores.average.overall%2Clatest.cost.tuition.in_state"
+  },
+  "Most competitive": {
+    "csv_name": "California Institute of Technology",
+    "unitid": "110404",
+    "api_data": null,
+    "error": "403 Client Error: Forbidden for url: https://api.data.gov/ed/collegescorecard/v1/schools?api_key=0GErZoMWiizbqBsROxnaGmsfaQlGTxluyKXBHpF8&id=110404&fields=id%2Cschool.name%2Clatest.student.size%2Clatest.admissions.admission_rate.overall%2Clatest.admissions.sat_scores.average.overall%2Clatest.cost.tuition.in_state"
+  },
+  "NC": {
+    "csv_name": "Miles College",
+    "unitid": "101675",
+    "api_data": null,
+    "error": "403 Client Error: Forbidden for url: https://api.data.gov/ed/collegescorecard/v1/schools?api_key=0GErZoMWiizbqBsROxnaGmsfaQlGTxluyKXBHpF8&id=101675&fields=id%2Cschool.name%2Clatest.student.size%2Clatest.admissions.admission_rate.overall%2Clatest.admissions.sat_scores.average.overall%2Clatest.cost.tuition.in_state"
+  },
+  "No category": {
+    "csv_name": "Spring Hill College",
+    "unitid": "102234",
+    "api_data": null,
+    "error": "403 Client Error: Forbidden for url: https://api.data.gov/ed/collegescorecard/v1/schools?api_key=0GErZoMWiizbqBsROxnaGmsfaQlGTxluyKXBHpF8&id=102234&fields=id%2Cschool.name%2Clatest.student.size%2Clatest.admissions.admission_rate.overall%2Clatest.admissions.sat_scores.average.overall%2Clatest.cost.tuition.in_state"
+  },
+  "Specialized programs": {
+    "csv_name": "Art Center College of Design",
+    "unitid": "109651",
+    "api_data": null,
+    "error": "403 Client Error: Forbidden for url: https://api.data.gov/ed/collegescorecard/v1/schools?api_key=0GErZoMWiizbqBsROxnaGmsfaQlGTxluyKXBHpF8&id=109651&fields=id%2Cschool.name%2Clatest.student.size%2Clatest.admissions.admission_rate.overall%2Clatest.admissions.sat_scores.average.overall%2Clatest.cost.tuition.in_state"
+  },
+  "VC": {
+    "csv_name": "University of Alabama in Huntsville",
+    "unitid": "100706",
+    "api_data": null,
+    "error": "403 Client Error: Forbidden for url: https://api.data.gov/ed/collegescorecard/v1/schools?api_key=0GErZoMWiizbqBsROxnaGmsfaQlGTxluyKXBHpF8&id=100706&fields=id%2Cschool.name%2Clatest.student.size%2Clatest.admissions.admission_rate.overall%2Clatest.admissions.sat_scores.average.overall%2Clatest.cost.tuition.in_state"
+  },
+  "VC+": {
+    "csv_name": "Auburn University",
+    "unitid": "100858",
+    "api_data": null,
+    "error": "403 Client Error: Forbidden for url: https://api.data.gov/ed/collegescorecard/v1/schools?api_key=0GErZoMWiizbqBsROxnaGmsfaQlGTxluyKXBHpF8&id=100858&fields=id%2Cschool.name%2Clatest.student.size%2Clatest.admissions.admission_rate.overall%2Clatest.admissions.sat_scores.average.overall%2Clatest.cost.tuition.in_state"
+  }
+}
