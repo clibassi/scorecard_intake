@@ -1,0 +1,17 @@
+OPTION 1: CONCISE SINGLE PARAGRAPH
+
+Notes: Table presents median values across institutions within each Barron's selectivity category. College selectivity categories from Barron's Profiles of American Colleges (2013, 29th edition). Financial aid, net price, and enrollment data from U.S. Department of Education College Scorecard (https://collegescorecard.ed.gov/data), Academic Year 2022-23 for aid rates and net price (IPEDS), Fall 2023 for enrollment. Net price represents average annual cost of attendance minus all grant aid for full-time, first-time, degree/certificate-seeking undergraduates receiving Title IV aid; for public institutions, limited to in-state tuition. Income-specific net price calculated separately for five family income brackets using income values for financial aid eligibility. Sample includes 6,149 undergraduate-degree-granting institutions. "No category" includes 4,765 institutions (78.5%) not rated by Barron's, primarily community colleges and vocational schools.
+
+---
+
+OPTION 2: TWO PARAGRAPH (slightly more detail)
+
+Notes: Table presents median values across institutions within each Barron's selectivity category. College selectivity categories from Barron's Profiles of American Colleges (2013, 29th edition). Financial aid, net price, and enrollment data from U.S. Department of Education College Scorecard (https://collegescorecard.ed.gov/data).
+
+Data from Academic Year 2022-23 for Pell grant rates, federal loan rates, and net price (IPEDS Student Financial Aid component); Fall 2023 for undergraduate enrollment (IPEDS Fall Enrollment). Net price represents average annual cost of attendance minus all grant aid for full-time, first-time, degree/certificate-seeking undergraduates receiving Title IV aid; for public institutions, limited to in-state tuition. Income-specific net price calculated separately for five family income brackets using income values for financial aid eligibility. Sample includes 6,149 undergraduate-degree-granting institutions. "No category" includes 4,765 institutions (78.5%) not rated by Barron's, primarily community colleges and vocational schools.
+
+---
+
+OPTION 3: IF USING ENROLLMENT-WEIGHTED
+
+Notes: Table presents enrollment-weighted means within each Barron's selectivity category, where larger institutions receive proportionally greater weight. College selectivity categories from Barron's Profiles of American Colleges (2013, 29th edition). Financial aid, net price, and enrollment data from U.S. Department of Education College Scorecard (https://collegescorecard.ed.gov/data), Academic Year 2022-23 for aid rates and net price (IPEDS), Fall 2023 for enrollment. Net price represents average annual cost of attendance minus all grant aid for full-time, first-time, degree/certificate-seeking undergraduates receiving Title IV aid; for public institutions, limited to in-state tuition. Income-specific net price calculated separately for five family income brackets. Sample includes 6,149 undergraduate-degree-granting institutions. "No category" includes 4,765 institutions (78.5%) not rated by Barron's, primarily community colleges and vocational schools.
