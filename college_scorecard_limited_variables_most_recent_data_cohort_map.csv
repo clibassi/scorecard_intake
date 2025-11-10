@@ -1,0 +1,104 @@
+VariableName,CohortMeasureinMostRecent,MergedfileDrawnFromMergedXX,D,E,keeper
+UNITID,"AcadYr 2023-24, reported in IPEDS DCY2023-24",2023_24,,,1
+OPEID,"AcadYr 2023-24, reported in IPEDS DCY2023-24",2023_24,,,1
+OPEID6,"AcadYr 2023-24, reported in IPEDS DCY2023-24",2023_24,,,1
+INSTNM,"AcadYr 2023-24, reported in IPEDS DCY2023-24, unless more recent data are available. Then the most recent data reported to IPEDS (through AcadYr 2023-24, at latest) are included.",2023_24,,,1
+CITY,"AcadYr 2023-24, reported in IPEDS DCY2023-24, unless more recent data are available. Then the most recent data reported to IPEDS (through AcadYr 2023-24, at latest) are included.",2023_24,,,1
+STABBR,"AcadYr 2023-24, reported in IPEDS DCY2023-24, unless more recent data are available. Then the most recent data reported to IPEDS (through AcadYr 2023-24, at latest) are included.",2023_24,,,1
+ZIP,"AcadYr 2023-24, reported in IPEDS DCY2023-24, unless more recent data are available. Then the most recent data reported to IPEDS (through AcadYr 2023-24, at latest) are included.",2023_24,,,1
+SCH_DEG,AY 2015-16,2019_20,,,1
+MAIN,"AcadYr 2023-24, reported in IPEDS DCY2023-24",2023_24,,,1
+PREDDEG,"AY2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+CONTROL,"AcadYr 2023-24, reported in IPEDS DCY2023-24",2023_24,,,1
+ST_FIPS,"AcadYr 2023-24, reported in IPEDS DCY2023-24, unless more recent data are available. Then the most recent data reported to IPEDS (through AcadYr 2023-24, at latest) are included.",2023_24,,,1
+LATITUDE,"AcadYr 2023-24, reported in IPEDS DCY2023-24 if data was provided; otherwise AcadYr 2023-24, reported in IPEDS DCY2023-24",2023_24,,,1
+LONGITUDE,"AcadYr 2023-24, reported in IPEDS DCY2023-24 if data was provided; otherwise AcadYr 2023-24, reported in IPEDS DCY2023-24",2023_24,,,1
+ADM_RATE,"Fall 2023, reported in IPEDS DCY2023-24",2023_24,,,1
+ADM_RATE_ALL,"Fall 2023, reported in IPEDS DCY2023-24",2023_24,,,1
+SATVR25,"Fall 2023, reported in IPEDS DCY2023-24",2023_24,,,1
+SATVR75,"Fall 2023, reported in IPEDS DCY2023-24",2023_24,,,1
+SATMT25,"Fall 2023, reported in IPEDS DCY2023-24",2023_24,,,1
+SATMT75,"Fall 2023, reported in IPEDS DCY2023-24",2023_24,,,1
+SATWR25,"Fall 2015, reported in IPEDS DCY2015-16",2015_16,,,1
+SATWR75,"Fall 2015, reported in IPEDS DCY2015-16",2015_16,,,1
+SATVRMID,"Fall 2021, reported in IPEDS DCY2021-22",2021_22,,,1
+SATMTMID,"Fall 2021, reported in IPEDS DCY2021-22",2021_22,,,1
+SATWRMID,"Fall 2015, reported in IPEDS DCY2015-16",2015_16,,,1
+ACTCM25,"Fall 2023, reported in IPEDS DCY2023-24",2023_24,,,1
+ACTCM75,"Fall 2023, reported in IPEDS DCY2023-24",2023_24,,,1
+ACTEN25,"Fall 2023, reported in IPEDS DCY2023-24",2023_24,,,1
+ACTEN75,"Fall 2023, reported in IPEDS DCY2023-24",2023_24,,,1
+ACTMT25,"Fall 2023, reported in IPEDS DCY2023-24",2023_24,,,1
+ACTMT75,"Fall 2023, reported in IPEDS DCY2023-24",2023_24,,,1
+ACTWR25,"Fall 2015, reported in IPEDS DCY2015-16",2015_16,,,1
+ACTWR75,"Fall 2015, reported in IPEDS DCY2015-16",2015_16,,,1
+ACTCMMID,"Fall 2021, reported in IPEDS DCY2021-22",2021_22,,,1
+ACTENMID,"Fall 2021, reported in IPEDS DCY2021-22",2021_22,,,1
+ACTMTMID,"Fall 2021, reported in IPEDS DCY2021-22",2021_22,,,1
+ACTWRMID,"Fall 2015, reported in IPEDS DCY2015-16",2015_16,,,1
+SAT_AVG,"Fall 2023, reported in IPEDS DCY2023-24",2023_24,,,1
+SAT_AVG_ALL,"Fall 2023, reported in IPEDS DCY2023-24",2023_24,,,1
+UGDS,"Fall 2023, reported in IPEDS DCY2023-24",2023_24,,,1
+UG,NA,N/A,,,1
+NPT4_PUB,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT4_PRIV,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT4_PROG,NA,N/A,,,1
+NPT4_OTHER,NA,N/A,,,1
+NPT41_PUB,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT42_PUB,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT43_PUB,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT44_PUB,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT45_PUB,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT41_PRIV,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT42_PRIV,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT43_PRIV,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT44_PRIV,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT45_PRIV,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT41_PROG,NA,N/A,,,1
+NPT42_PROG,NA,N/A,,,1
+NPT43_PROG,NA,N/A,,,1
+NPT44_PROG,NA,N/A,,,1
+NPT45_PROG,NA,N/A,,,1
+NPT41_OTHER,NA,N/A,,,1
+NPT42_OTHER,NA,N/A,,,1
+NPT43_OTHER,NA,N/A,,,1
+NPT44_OTHER,NA,N/A,,,1
+NPT45_OTHER,NA,N/A,,,1
+NPT4_048_PUB,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT4_048_PRIV,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT4_048_PROG,NA,N/A,,,1
+NPT4_048_OTHER,NA,N/A,,,1
+NPT4_3075_PUB,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT4_3075_PRIV,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT4_75UP_PUB,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT4_75UP_PRIV,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+NPT4_3075_PROG,NA,N/A,,,1
+NPT4_3075_OTHER,NA,N/A,,,1
+NPT4_75UP_PROG,NA,N/A,,,1
+NPT4_75UP_OTHER,NA,N/A,,,1
+COSTT4_A,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+COSTT4_P,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+TUITIONFEE_IN,"AcadYr 2023-24, reported in IPEDS DCY2023-24",2023_24,,,1
+TUITIONFEE_OUT,"AcadYr 2023-24, reported in IPEDS DCY2023-24",2023_24,,,1
+TUITIONFEE_PROG,"AcadYr 2023-24, reported in IPEDS DCY2023-24",2023_24,,,1
+TUITFTE,"FY2023 (numerator) and AY2022-23 (denominator), reported in IPEDS DCY2023-24",2023_24,,,1
+INEXPFTE,"FY2023 (numerator) and AY2022-23 (denominator), reported in IPEDS DCY2023-24",2023_24,,,1
+AVGFACSAL,"AcadYr 2023-24 salaries of Fall 2023 faculty, reported in IPEDS DCY2023-24",2023_24,,,1
+PCTPELL,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+PCTFLOAN,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+PELL_DEATH_YR2_RT,NSLDS AY2017-18 cohort measured in AY2019-20,2019_20,,,1
+PELL_COMP_ORIG_YR2_RT,NSLDS AY2017-18 cohort measured in AY2019-20,2019_20,,,1
+PELL_COMP_4YR_TRANS_YR2_RT,NSLDS AY2017-18 cohort measured in AY2019-20,2019_20,,,1
+PELL_COMP_2YR_TRANS_YR2_RT,NSLDS AY2017-18 cohort measured in AY2019-20,2019_20,,,1
+PELL_WDRAW_ORIG_YR2_RT,NSLDS AY2017-18 cohort measured in AY2019-20,2019_20,,,1
+PELL_WDRAW_4YR_TRANS_YR2_RT,NSLDS AY2017-18 cohort measured in AY2019-20,2019_20,,,1
+PELL_WDRAW_2YR_TRANS_YR2_RT,NSLDS AY2017-18 cohort measured in AY2019-20,2019_20,,,1
+PELL_ENRL_ORIG_YR2_RT,NSLDS AY2017-18 cohort measured in AY2019-20,2019_20,,,1
+PELL_ENRL_4YR_TRANS_YR2_RT,NSLDS AY2017-18 cohort measured in AY2019-20,2019_20,,,1
+PELL_ENRL_2YR_TRANS_YR2_RT,NSLDS AY2017-18 cohort measured in AY2019-20,2019_20,,,1
+PELL_UNKN_ORIG_YR2_RT,NSLDS AY2017-18 cohort measured in AY2019-20,2019_20,,,1
+PELL_UNKN_4YR_TRANS_YR2_RT,NSLDS AY2017-18 cohort measured in AY2019-20,2019_20,,,1
+PELL_UNKN_2YR_TRANS_YR2_RT,NSLDS AY2017-18 cohort measured in AY2019-20,2019_20,,,1
+D_PCTPELL_PCTFLOAN,"AcadYr 2022-23, reported in IPEDS DCY2023-24",2023_24,,,1
+MD_EARN_WNE_5YR,"Treasury AY2014-15, AY2015-16 pooled cohort measured in CY2020, CY2021, inflation adjusted to 2022 dollars",2020_21,,,1
+SCORECARD_SECTOR,"AY2022-23 and AcadYr2023-24, reported in IPEDS DCY2023-24",2023_24,,,1
