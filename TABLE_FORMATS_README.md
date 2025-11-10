@@ -5,8 +5,8 @@ This directory contains the financial aid summary table in multiple professional
 ## Available Formats
 
 ### 1. CSV Data File
-**File:** `barrons_financial_aid_summary.csv`
-- Machine-readable data
+**File:** `barrons_financial_aid_summary_weighted.csv`
+- Machine-readable data with enrollment-weighted statistics
 - Use for further analysis or importing into statistical software
 - Column headers are self-explanatory
 
@@ -15,7 +15,7 @@ This directory contains the financial aid summary table in multiple professional
 - Complete LaTeX document ready to compile
 - Compile with: `pdflatex barrons_financial_aid_table_standalone.tex`
 - Requires packages: booktabs, caption, siunitx, hyperref, tabularx
-- Produces professional academic table with comprehensive notes
+- Produces professional academic table with concise notes
 - Formatted for journal submission
 
 ### 3. LaTeX Table (For Inclusion)
@@ -27,7 +27,7 @@ This directory contains the financial aid summary table in multiple professional
 ### 4. Academic Markdown
 **File:** `barrons_financial_aid_table_academic.md`
 - Full academic documentation in markdown format
-- Includes complete table with all notes and citations
+- Includes complete table with concise professional notes
 - Can be converted to other formats using pandoc:
   - Word: `pandoc barrons_financial_aid_table_academic.md -o table.docx`
   - HTML: `pandoc barrons_financial_aid_table_academic.md -o table.html`
@@ -38,13 +38,17 @@ This directory contains the financial aid summary table in multiple professional
 - Simplified version with key observations
 - Good for GitHub display or quick reference
 
+## Weighting Methodology
+
+**All statistics are enrollment-weighted means**, where larger institutions receive proportionally greater weight. This approach reflects the typical student experience rather than the typical institution. For example, a university with 30,000 undergraduates has 10 times the influence on the mean as a college with 3,000 undergraduates.
+
 ## Table Contents
 
-The table presents median values for:
+The table presents enrollment-weighted means for:
 - **Pell Grant Rate**: Percentage of undergraduates receiving Pell grants (AY 2022-23)
 - **Federal Loan Rate**: Percentage receiving federal loans (AY 2022-23)
-- **Overall Net Price**: Median net price across all income levels (AY 2022-23)
-- **Net Price by Income**: Median net prices for five family income brackets (AY 2022-23):
+- **Overall Net Price**: Mean net price across all income levels (AY 2022-23)
+- **Net Price by Income**: Mean net prices for five family income brackets (AY 2022-23):
   - $0-30,000
   - $30,001-48,000
   - $48,001-75,000
@@ -70,11 +74,11 @@ selectivity categories from Barron's Profiles of American Colleges,
 
 ## Notes on Academic Formatting
 
-All versions include:
-- Proper variable definitions from College Scorecard data dictionary
-- Specific measurement periods and cohorts
-- Source attributions for IPEDS data
-- Description of Barron's selectivity methodology
+All versions include concise professional table notes in standard academic journal format:
+- Single paragraph notes (not sectioned)
+- Proper citations for Barron's Profiles (2013, 29th ed) and College Scorecard
+- General description of data sources and measurement periods
+- Weighting methodology clearly stated
 - Sample composition details
 
 The LaTeX versions use professional typesetting conventions:
