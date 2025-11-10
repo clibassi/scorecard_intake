@@ -1,0 +1,112 @@
+[
+  {
+    "category": "Most competitive",
+    "n_total": 89,
+    "n_with_netprice": 86,
+    "coverage_pct": 96.6,
+    "median": 28466.0,
+    "mean": 28252.0,
+    "p25": 21119.0,
+    "p75": 34890.0
+  },
+  {
+    "category": "HC+",
+    "n_total": 37,
+    "n_with_netprice": 36,
+    "coverage_pct": 97.3,
+    "median": 24954.0,
+    "mean": 26718.0,
+    "p25": 20861.0,
+    "p75": 31968.0
+  },
+  {
+    "category": "HC",
+    "n_total": 68,
+    "n_with_netprice": 67,
+    "coverage_pct": 98.5,
+    "median": 25810.0,
+    "mean": 26528.0,
+    "p25": 18580.0,
+    "p75": 33312.0
+  },
+  {
+    "category": "VC+",
+    "n_total": 55,
+    "n_with_netprice": 55,
+    "coverage_pct": 100.0,
+    "median": 24546.0,
+    "mean": 25359.0,
+    "p25": 21004.0,
+    "p75": 27724.0
+  },
+  {
+    "category": "VC",
+    "n_total": 213,
+    "n_with_netprice": 211,
+    "coverage_pct": 99.1,
+    "median": 21782.0,
+    "mean": 22611.0,
+    "p25": 17724.0,
+    "p75": 27166.0
+  },
+  {
+    "category": "C+",
+    "n_total": 70,
+    "n_with_netprice": 70,
+    "coverage_pct": 100.0,
+    "median": 20482.0,
+    "mean": 20039.0,
+    "p25": 16266.0,
+    "p75": 23442.0
+  },
+  {
+    "category": "C",
+    "n_total": 574,
+    "n_with_netprice": 572,
+    "coverage_pct": 99.7,
+    "median": 19602.0,
+    "mean": 19984.0,
+    "p25": 14878.0,
+    "p75": 23622.0
+  },
+  {
+    "category": "LC",
+    "n_total": 151,
+    "n_with_netprice": 146,
+    "coverage_pct": 96.7,
+    "median": 15951.0,
+    "mean": 16781.0,
+    "p25": 11376.0,
+    "p75": 20582.0
+  },
+  {
+    "category": "NC",
+    "n_total": 62,
+    "n_with_netprice": 62,
+    "coverage_pct": 100.0,
+    "median": 14152.0,
+    "mean": 14638.0,
+    "p25": 11375.0,
+    "p75": 15992.0
+  },
+  {
+    "category": "Specialized programs",
+    "n_total": 65,
+    "n_with_netprice": 57,
+    "coverage_pct": 87.7,
+    "median": 34725.0,
+    "mean": 32662.0,
+    "p25": 20799.0,
+    "p75": 42448.0
+  },
+  {
+    "category": "No category",
+    "n_total": 4765,
+    "n_with_netprice": 3804,
+    "coverage_pct": 79.8,
+    "median": 15071.0,
+    "mean": 16104.0,
+    "p25": 8652.0,
+    "p75": 21769.0
+  }
+]
